@@ -1,0 +1,204 @@
+{
+  "tests": [
+    {
+      "input": "hola",
+      "shift": 1,
+      "lang": "es"
+    },
+    {
+      "input": "Hola",
+      "shift": 1,
+      "lang": "es"
+    },
+    {
+      "input": "Hola que tal",
+      "shift": 2,
+      "lang": "es"
+    },
+    {
+      "input": "mañana",
+      "shift": 3,
+      "lang": "es"
+    },
+    {
+      "input": "niño",
+      "shift": 4,
+      "lang": "es"
+    },
+    {
+      "input": "España",
+      "shift": 5,
+      "lang": "es"
+    },
+    {
+      "input": "¡qué pasa!",
+      "shift": 7,
+      "lang": "es"
+    },
+    {
+      "input": "árbol",
+      "shift": 6,
+      "lang": "es"
+    },
+    {
+      "input": "pingüino",
+      "shift": 3,
+      "lang": "es"
+    },
+    {
+      "input": "año",
+      "shift": 2,
+      "lang": "es"
+    },
+    {
+      "input": "lola",
+      "shift": 1,
+      "lang": "es"
+    },
+    {
+      "input": "Ipmb rvf ubm nf qsfhvñubcb, uf hvtubsjb tfs nj bnjhp?",
+      "shift": -1,
+      "lang": "es"
+    },
+    {
+      "input": "Árboles y niños",
+      "shift": 1,
+      "lang": "es"
+    },
+    {
+      "input": "Über",
+      "shift": 2,
+      "lang": "es"
+    },
+    {
+      "input": "Straße",
+      "shift": 3,
+      "lang": "es"
+    },
+    {
+      "input": "Æther",
+      "shift": 4,
+      "lang": "es"
+    },
+    {
+      "input": "œuvre",
+      "shift": 5,
+      "lang": "es"
+    },
+    {
+      "input": "ßeta",
+      "shift": 6,
+      "lang": "es"
+    },
+    {
+      "input": "ñoño",
+      "shift": 7,
+      "lang": "es"
+    },
+    {
+      "input": "aáeéiíoóuúü",
+      "shift": 8,
+      "lang": "es"
+    },
+    {
+      "input": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "shift": 9,
+      "lang": "es"
+    },
+    {
+      "input": "abcdefghijklmnopqrstuvwxyz",
+      "shift": 10,
+      "lang": "es"
+    },
+    {
+      "input": "Ññ",
+      "shift": 1,
+      "lang": "es"
+    },
+    {
+      "input": "El rápido zorro marrón",
+      "shift": 2,
+      "lang": "es"
+    },
+    {
+      "input": "Hola, ¿qué tal? Soy yo.",
+      "shift": 3,
+      "lang": "es"
+    },
+    {
+      "input": "¿Dónde estás?",
+      "shift": 4,
+      "lang": "es"
+    },
+    {
+      "input": "¡Feliz cumpleaños!",
+      "shift": 5,
+      "lang": "es"
+    },
+    {
+      "input": "canción",
+      "shift": 6,
+      "lang": "es"
+    },
+    {
+      "input": "camión",
+      "shift": 7,
+      "lang": "es"
+    },
+    {
+      "input": "acción",
+      "shift": 8,
+      "lang": "es"
+    },
+    {
+      "input": "Árboles y niños",
+      "shift": 9,
+      "lang": "es"
+    },
+    {
+      "input": "Über",
+      "shift": 10,
+      "lang": "es"
+    },
+    {
+      "input": "Straße",
+      "shift": 1,
+      "lang": "es"
+    },
+    {
+      "input": "Æther",
+      "shift": 2,
+      "lang": "es"
+    },
+    {
+      "input": "œuvre",
+      "shift": 3,
+      "lang": "es"
+    },
+    {
+      "input": "ßeta",
+      "shift": 4,
+      "lang": "es"
+    },
+    {
+      "input": "ñoño",
+      "shift": 5,
+      "lang": "es"
+    },
+    {
+      "input": "aáeéiíoóuúü",
+      "shift": 6,
+      "lang": "es"
+    },
+    {
+      "input": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "shift": 7,
+      "lang": "es"
+    },
+    {
+      "input": "abcdefghijklmnopqrstuvwxyz",
+      "shift": 8,
+      "lang": "es"
+    }
+  ]
+}
